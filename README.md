@@ -1,2 +1,2 @@
 # Blog-Site
-Responcive  Personal Blog Page
+Responsive  Personal Blog Page
