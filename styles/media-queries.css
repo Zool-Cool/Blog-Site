@@ -1,0 +1,70 @@
+     @media (max-width:859px) {
+
+   
+               .links > ul ,li {
+                   
+               display:flex;
+               flex-direction: column-reverse;
+               padding: 0;
+               margin-left: 50%;
+               z-index: 1;
+            
+            
+            }
+
+        #about-us-container h1 {
+
+            font-size: 10px;
+            
+           
+      
+}
+        
+}
+
+
+
+
+        
+   @media (max-width:860px) {
+
+
+
+           #about-us-container h1 {
+
+                  font-size: 25px;
+                  right: 30px;
+
+
+
+}
+
+  .links > ul ,li {
+                   
+               display:flex;
+               flex-direction:column;
+               padding: 0;
+               margin-left: 50%;
+               z-index: 1;
+            
+            
+            }
+   }
+ 
+
+
+
+
+
+
+
+
+         
+      
+         
+           
+
+
+
+
+
